@@ -1,0 +1,1 @@
+Text input from server is: data from pc to pi
